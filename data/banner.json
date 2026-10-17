@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "TASK",
+  "NOTE",
+  "INBOX",
+  "FOCUS",
+  "CALENDAR",
+  "TODO",
+  "LINK",
+  "SYNC",
+  "SEARCH",
+  "LAUNCH",
+  "TAG",
+  "OUTLINE",
+  "BACKLINK",
+  "SNIPPET",
+  "TIMER",
+  "PLAN"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Productivity Tools",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "NOTES  |  TASKS  |  CALENDAR",
+ "sub2": "FOCUS  |  LAUNCHERS  |  KNOWLEDGE",
+ "foot": "Open-source productivity software, each checked for license and activity"
+}

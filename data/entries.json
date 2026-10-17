@@ -1,0 +1,434 @@
+[
+  {
+    "repo": "ggml-org/whisper.cpp",
+    "category": "ai",
+    "description": "Fast local transcription in C and C++.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "category": "ai",
+    "description": "Self-hostable AI second brain that searches your notes.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-02"
+  },
+  {
+    "repo": "ollama/ollama",
+    "category": "ai",
+    "description": "Run large language models locally.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "category": "ai",
+    "description": "Self-hosted web interface for local and hosted language models.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "ai",
+    "description": "General-purpose speech recognition model, useful for voice notes.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "calcom/cal.diy",
+    "category": "calendar",
+    "description": "Open-source scheduling infrastructure.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-26"
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
+    "category": "calendar",
+    "description": "Full-sized drag and drop event calendar for the web.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "nextcloud/calendar",
+    "category": "calendar",
+    "description": "Calendar app for Nextcloud.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "BookStackApp/BookStack",
+    "category": "docs",
+    "description": "Simple, self-hosted wiki platform.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "CollaboraOnline/online",
+    "category": "docs",
+    "description": "Collaborative online office suite based on LibreOffice.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "category": "docs",
+    "description": "Virtual whiteboard for sketching hand-drawn style diagrams.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "hedgedoc/hedgedoc",
+    "category": "docs",
+    "description": "Collaborative Markdown editor in the browser.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "ONLYOFFICE/DocumentServer",
+    "category": "docs",
+    "description": "Online editors for documents, spreadsheets and presentations.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "outline/outline",
+    "category": "docs",
+    "description": "Fast, collaborative team knowledge base.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "requarks/wiki",
+    "category": "docs",
+    "description": "Modern wiki app built on Node.js.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "tldraw/tldraw",
+    "category": "docs",
+    "description": "Infinite canvas SDK and whiteboard app.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ActivityWatch/activitywatch",
+    "category": "focus",
+    "description": "Open-source automated time tracker.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "wakatime/wakatime-cli",
+    "category": "focus",
+    "description": "Command-line tool for the WakaTime coding time tracker.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "albertlauncher/albert",
+    "category": "launcher",
+    "description": "Fast and flexible keyboard launcher.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "asmvik/yabai",
+    "category": "launcher",
+    "description": "Tiling window manager for macOS.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-14"
+  },
+  {
+    "repo": "Hammerspoon/hammerspoon",
+    "category": "launcher",
+    "description": "Staggeringly powerful macOS desktop automation with Lua.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-08"
+  },
+  {
+    "repo": "kando-menu/kando",
+    "category": "launcher",
+    "description": "Cross-platform pie menu for faster desktop use.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "category": "launcher",
+    "description": "Utilities to customize and streamline Windows.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nikitabobko/AeroSpace",
+    "category": "launcher",
+    "description": "Tiling window manager for macOS.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-02"
+  },
+  {
+    "repo": "Ulauncher/Ulauncher",
+    "category": "launcher",
+    "description": "Application launcher for Linux.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "wezterm/wezterm",
+    "category": "launcher",
+    "description": "GPU-accelerated terminal emulator and multiplexer.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "AppFlowy-IO/AppFlowy",
+    "category": "notes",
+    "description": "Open-source Notion alternative.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "foambubble/foam",
+    "category": "notes",
+    "description": "Personal knowledge management in VS Code.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "laurent22/joplin",
+    "category": "notes",
+    "description": "Note-taking and to-do app with sync and end-to-end encryption.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "logseq/logseq",
+    "category": "notes",
+    "description": "Privacy-first outliner and knowledge base.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "silverbulletmd/silverbullet",
+    "category": "notes",
+    "description": "Markdown-based personal knowledge platform you can program.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "siyuan-note/siyuan",
+    "category": "notes",
+    "description": "Privacy-first personal knowledge management system.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "standardnotes/app",
+    "category": "notes",
+    "description": "End-to-end encrypted notes app.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "streetwriters/notesnook",
+    "category": "notes",
+    "description": "End-to-end encrypted note-taking app.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "toeverything/AFFiNE",
+    "category": "notes",
+    "description": "Workspace that combines docs, whiteboards and databases.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "TriliumNext/Trilium",
+    "category": "notes",
+    "description": "Hierarchical note-taking app for large personal knowledge bases.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "usememos/memos",
+    "category": "notes",
+    "description": "Self-hosted, lightweight note-taking service.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Zettlr/Zettlr",
+    "category": "notes",
+    "description": "Markdown editor for research and knowledge work.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "bitwarden/server",
+    "category": "sync",
+    "description": "Server for the Bitwarden password manager.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "category": "sync",
+    "description": "Unofficial Bitwarden-compatible server written in Rust.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "immich-app/immich",
+    "category": "sync",
+    "description": "High-performance self-hosted photo and video backup.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "keepassxreboot/keepassxc",
+    "category": "sync",
+    "description": "Cross-platform community fork of KeePass.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nextcloud/server",
+    "category": "sync",
+    "description": "Self-hosted cloud for files, calendar, contacts and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "paperless-ngx/paperless-ngx",
+    "category": "sync",
+    "description": "Document management system that scans and indexes your papers.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "category": "sync",
+    "description": "Open-source continuous file synchronization.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "go-vikunja/vikunja",
+    "category": "tasks",
+    "description": "Self-hosted to-do app with lists, boards and Gantt views.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "GothenburgBitFactory/taskwarrior",
+    "category": "tasks",
+    "description": "Command-line task management tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "kanboard/kanboard",
+    "category": "tasks",
+    "description": "Simple kanban project management software.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "makeplane/plane",
+    "category": "tasks",
+    "description": "Open-source project management tool for tasks, cycles and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "plankanban/planka",
+    "category": "tasks",
+    "description": "Open-source kanban board for teams.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "super-productivity/super-productivity",
+    "category": "tasks",
+    "description": "To-do list and time tracker with Jira and GitHub integration.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "super-productivity/super-productivity",
+    "category": "tasks",
+    "description": "To-do list and time tracker with issue tracker integrations.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "todotxt/todo.txt-cli",
+    "category": "tasks",
+    "description": "Plain text to-do list command-line tool.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "wekan/wekan",
+    "category": "tasks",
+    "description": "Open-source kanban board.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  }
+]
